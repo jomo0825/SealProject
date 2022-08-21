@@ -1,0 +1,3 @@
+[submodule "Submodules/PenguinProject"]
+	path = Submodules/PenguinProject
+	url = https://github.com/jomo0825/PenguinProject
